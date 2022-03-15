@@ -1,2 +1,1 @@
-# Feed-Instagram-Bootstrap
- Feed Instagram Bootstrap
+# Ejercicio Feed de Instagram 4GEEKACADEMY
