@@ -33,3 +33,7 @@ button {
     object-fit: cover;
 
 }   
+#card_tamaño{
+    margin-bottom:5px;
+    margin-top: 10px;
+}
